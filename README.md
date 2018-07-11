@@ -1,7 +1,7 @@
 matchcase
 ======
 
-`npm install matchcase`
+`npm install @carc1n0gen/matchcase`
 
 ```js
 const matchcase = require('matchcase');
