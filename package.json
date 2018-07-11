@@ -1,0 +1,31 @@
+{
+  "name": "matchcase",
+  "version": "1.0.0-0",
+  "description": "A functional programming alternative to switch/case statements",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"./**/*.test.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carc1n0gen/matchcase.git"
+  },
+  "keywords": [
+    "match",
+    "switch",
+    "case",
+    "functional"
+  ],
+  "author": "Carson Evans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carc1n0gen/matchcase/issues"
+  },
+  "homepage": "https://github.com/carc1n0gen/matchcase#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^5.1.0",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "mocha": "^5.2.0"
+  }
+}
