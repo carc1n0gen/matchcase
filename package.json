@@ -1,5 +1,5 @@
 {
-  "name": "matchcase",
+  "name": "@carc1n0gen/matchcase",
   "version": "1.0.0",
   "description": "A functional programming alternative to switch/case statements",
   "main": "index.js",
